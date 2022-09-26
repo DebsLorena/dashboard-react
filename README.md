@@ -1,3 +1,43 @@
+
+<div align="center">
+  <h1>Sejam muito bem vindos!!</h1>
+  <strong> Dashboard </strong>
+  <h6>Feito com ❤️ by DebsLorena</h6>
+</div>
+<br>
+
+
+## Dashboard, em react e algumas bibliotecas.
+
+<div align="center">
+    <img src="./print.PNG" alt="daily.dev" width="550">
+    <img src="./print1.PNG" alt="daily.dev" width="550">
+    <img src="./print2.PNG" alt="daily.dev" width="550">
+</div>
+
+
+### 🎨 Frontend
+
+*  **React**: com Visual Studio Code, importação de icones e scroll.
+*  **Bibliotecas extras**: Mui, Motion, Apexcharts, Iconscout.
+
+
+## 🙌 Quer Contribuir?
+
+Estamos abertos a todos os tipos de contribuições. Se você quiser:
+* 🤔 Sugira um recurso
+* 🐛 Informar um problema
+* 📖 Melhore a documentação
+* 👨‍💻 Contribua com o código
+
+Você é mais que bem vindo. 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
